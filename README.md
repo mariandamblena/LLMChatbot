@@ -14,7 +14,3 @@ npm start
 Una vez instaladas las dependencias conectas Whatsapp leyendo el QR generado.
 
 Encendes el SV de LLM Studio (Checkea que tengas la misma URL que el video)
-
-Y Listo!
-
-Espero que sirva
